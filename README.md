@@ -15,7 +15,7 @@ Enter any whole number and get an instant answer:
 
 Pure client-side JavaScript with a trial-division primality test (6k ± 1 optimization). No server, no build step, no dependencies. Just open the HTML file in any browser.
 
-## Running locally
+## Running locally dis
 
 ```bash
 # Any static server works
